@@ -10,6 +10,10 @@
 
 * tested on ios10 beta, build on xcode8 GM
 
-* can not see cameraPreviewView because RPScreenRecorder.cameraPreviewView == nil
+* sometimes can not see cameraPreviewView because RPScreenRecorder.cameraPreviewView == nil，
+
+* sometimes cameraPreviewView locked on one frame
+
+  ​
 
   ​
