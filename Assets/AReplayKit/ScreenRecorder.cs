@@ -139,6 +139,7 @@ namespace AReplayKit
             return false;
         }
 
+        //在not IsRecording 和 canPreview的时候再来Preview，要不然是黑屏的
         public static void Preview()
         {
         }
